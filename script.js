@@ -38,3 +38,11 @@ async function enviarScript(scriptText){
 	
 	return lines.length;
 }
+
+enviarScript(`
+
+
+seu texto aqui
+
+
+`).then(e => console.log(`Código finalizado, ${e} mensagens enviadas`)).catch(console.error)
