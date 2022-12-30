@@ -1,2 +1,1 @@
-# script-whatsapp
-To send a lot of messages on whatsapp web
+# Script para enviar várias mensagens no whatsapp web (Script to send multiple messages on whatsapp web)
